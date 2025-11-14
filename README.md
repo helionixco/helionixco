@@ -33,7 +33,9 @@
 
 ## 🌐 ارتباط با ما  
 - **Website:** https://helionix.ir  
-- **Email:** info@helionix.ir  
+- **Email:** info@helionix.ir
+- **Telegram Channel:** https://t.me/helioniix
+- **instagram:** https://www.instagram.com/helio.nix/
 
 ---
 
